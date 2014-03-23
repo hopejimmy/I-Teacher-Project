@@ -1,0 +1,33 @@
+#mainbody{
+	/*font: 20px bold;*/
+	color: green;
+
+
+}
+
+/*.mynav{
+
+color: red;
+
+}*/
+
+.maintitle{
+
+	font:20px bold;
+	border: 2px;
+	color:pink;
+	border-color: black;
+}
+
+.navclass{
+
+
+	color:red;
+}
+
+nav:nth-child(odd){
+
+ color:purple;
+
+
+}
